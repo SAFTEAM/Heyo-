@@ -9,7 +9,7 @@ public class cikis : MonoBehaviour {
 	void Start () {
 
 
-        btnexit.onClick.AddListener(() => {
+            btnexit.onClick.AddListener(() => {
             Application.Quit();
             Debug.Log("bas");
         }
