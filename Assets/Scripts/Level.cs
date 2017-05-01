@@ -5,6 +5,7 @@ using System.Text;
 
 namespace Assets.Scripts
 {
+    //Seviye sınıfı
     class Level
     {
        public string name;

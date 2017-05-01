@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Command_Scene">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABACECBIAgAAAAQBAABAAlAIgFAAICjAECACAEA=</HashCode>
+      <FileName>Assets\Scripts\Command_Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Exit">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game_Exit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level_Find">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAIAgAAAAAAAQAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Level_Find.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelMenuControl">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAIAAAAAAAAAAAAEAAQAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LevelMenuControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Load_Scene">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Load_Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Music">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAAAAAAAAAAAAAAAAIAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Music.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peanut_Collision">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAACAAAIAAAAEAAAIgAAGgAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Peanut_Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProfileManager">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAAIAgAAAAAAAAAAAQEQAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ProfileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Run_Code">
+    <Position X="15.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAEAAAAAAAAAAAACAAAAAAAAAAIAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Run_Code.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingsManager">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAgAAAAAAAQAAAAAAIAIgAgAwAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\SettingsManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TempDelete">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\TempDelete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WaterCollision">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAIAAAAEAAAIgAAGgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\WaterCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.GameSettings">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACBAA=</HashCode>
+      <FileName>Assets\Scripts\GameSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Level">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.Profile">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAUAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiled2Unity.ImportBehaviour">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASCEBEACGAAKAAAAAAAEgQBAAAAAAQAAFiICAAAGAA=</HashCode>
+      <FileName>Assets\Tiled2Unity\Scripts\Runtime\ImportBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiled2Unity.SortingLayerExposed">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Tiled2Unity\Scripts\Runtime\SortingLayerExposed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiled2Unity.SpriteDepthInMap">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AsQAAAAAECAAAAAAAAAAAAABAgAAIAAQAAAAAQAAAYA=</HashCode>
+      <FileName>Assets\Tiled2Unity\Scripts\Runtime\SpriteDepthInMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiled2Unity.TileAnimator">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACACAAAAAAAACAAAIAAAAAAAAAAAAACAAEA=</HashCode>
+      <FileName>Assets\Tiled2Unity\Scripts\Runtime\TileAnimator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiled2Unity.TiledInitialShaderProperties">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiled2Unity.TiledMap">
+    <Position X="11" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Tiled2Unity.TiledMap.MapOrientation" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Tiled2Unity.TiledMap.MapStaggerAxis" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Tiled2Unity.TiledMap.MapStaggerIndex" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAASKAAhAABAAAACgAAAAAAAAQhAACAwAAAEA=</HashCode>
+      <FileName>Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tiled2Unity.TileObject">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Tiled2Unity\Scripts\Runtime\TileObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour">
+    <Position X="13.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

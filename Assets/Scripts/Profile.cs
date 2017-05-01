@@ -5,6 +5,7 @@ using System.Text;
 
 namespace Assets.Scripts
 {
+    //Profil sınıfı
     class Profile
     {
         public string Username;

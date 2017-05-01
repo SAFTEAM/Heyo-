@@ -5,6 +5,7 @@ using System.Text;
 
 namespace Assets.Scripts
 {
+    //Oyun ayarları sınıfı
     public class GameSettings
     {
         public float music_volume;
